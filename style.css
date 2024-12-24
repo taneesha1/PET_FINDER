@@ -40,7 +40,8 @@ header{
 #search-content-homepage{
     background-image: url("img1.avif");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:100%;
+    background-position-y: center;
   
     height: 40vh;
     width: 100vw;
